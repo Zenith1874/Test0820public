@@ -4,3 +4,6 @@ php1
 
 
 修改php文件，test 一下 练习一把
+
+
+test in vscode；
